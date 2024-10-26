@@ -1,9 +1,11 @@
 # Analisis-Exploratorio-de-los-datos
 Curso de Análisis Exploratorio de Datos
 # Temas
-[Porqué hacer un análisis exploratorio de los datos?](#porquéhacerunanálisisexploratoriodelosdatos?')
-
-## Porqué hacer un análisis exploratorio de los datos?
+[Porqué hacer un análisis exploratorio de los datos?](#1')
+[Pasos para realizar un análisis exploratorio de los datos](#2)
+[Tipos de datos](#3)
+[Análisis de variables](#4)
+## Porqué hacer un análisis exploratorio de los datos? <a name="1"></a>
 
 1. - Podemos organizar y entender las variables
 2. - Se establece las relaciones entre variables
@@ -11,7 +13,7 @@ Curso de Análisis Exploratorio de Datos
 4. - Ayuda a escoger al modelo correcto para la necesidad correcta
 5. - Tomas decisiones informadas
 
-## Pasos para realizar un análisis exploratorio de los datos
+## Pasos para realizar un análisis exploratorio de los datos<a name="2"></a>
 
 1. - Hacer Preguntas
     * Que te gustaria encontrar?
@@ -45,12 +47,12 @@ Curso de Análisis Exploratorio de Datos
 ![Ciclo de vida de AED](img/ciclo.jpg)
 
 
-## Tipos de datos
+## Tipos de datos<a name="3"></a>
 
 ![Tipos de datos](img/tipos_de_datos.jpg)
 
 
-## Análisis de variables
+## Análisis de variables<a name="4"></a>
 
 ![Variables](img/variables.jpg)
 
