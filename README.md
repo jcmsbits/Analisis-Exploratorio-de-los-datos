@@ -11,33 +11,44 @@ Curso de Análisis Exploratorio de Datos
 
 ## Pasos para realizar un análisis exploratorio de los datos
 
-1 - Hacer Preguntas
+1. - Hacer Preguntas
     * Que te gustaria encontrar?
     * Que quisieras saber de los datos?
     * Cuál es la razón para realizar el análisis?
 
-2 - Determinar el tamaño de los datos
+2. - Determinar el tamaño de los datos
     * Cuantas observaciones existen?
     * Cuantas variables hay?
     * Necesito todas las observaciones?
     * Necesito todas las variables?
 
-3 - Categorizar las variables
+3. - Categorizar las variables
     * Cuántas variables categóricas existen?
     * Cuántas variables continuas existen?
     * Como puedo explorar cada variable dependiendo de su categoría?
 
-4 - Limpieza y validación de los datos
+4. - Limpieza y validación de los datos
     * Tengo valores faltantes?
     * Cuál es la proporción de datos faltantes?
     * Como puedo tratar a los datos faltantes?
     * Cuál es la distribución de los datos?
     * Tengo valores atípicos?
 
-5 - Establecer relaciones
+5. - Establecer relaciones
     * Existe algún tipo de relación entre mi variable X y Y?
     * Qué pasa si ahora considero a la variable Z en el análisis?
     * Qué significa que las observaciones se agrupen?
     * Qué significa el patrón que se observa?
 
-()[]
+![Ciclo de vida de AED](img/ciclo.jpg)
+
+
+## Tipos de datos
+
+![Tipos de datos](img/tipos_de_datos.jpg)
+
+
+## Análisis de variables
+
+![Variables](img/variables.jpg)
+
