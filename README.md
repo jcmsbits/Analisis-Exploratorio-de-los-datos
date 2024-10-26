@@ -1,7 +1,7 @@
 # Analisis-Exploratorio-de-los-datos
 Curso de Análisis Exploratorio de Datos
 # Temas
-[Listas ordenadas](#Porqué_hacer_un_análisis_exploratorio_de_los_datos?')
+[Porqué hacer un análisis exploratorio de los datos?](#porquéhacerunanálisisexploratoriodelosdatos?')
 
 ## Porqué hacer un análisis exploratorio de los datos?
 
